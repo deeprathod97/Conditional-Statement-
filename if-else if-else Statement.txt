@@ -1,0 +1,2 @@
+if-else if-else Statement:
+The if-else if-else statement allows you to check multiple conditions and execute different blocks of code based on the first condition that is true. Here's the syntax:

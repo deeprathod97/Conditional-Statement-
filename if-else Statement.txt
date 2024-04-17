@@ -1,0 +1,2 @@
+if-else Statement:
+The if-else statement allows you to execute one block of code if the condition is true, and another block if the condition is false. Here's the syntax:
